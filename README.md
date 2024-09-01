@@ -13,4 +13,4 @@ Plane-Programming-GameUp24 is a game development project for gameup 2024 that in
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Plane-Programming-GameUp24.git
+   git clone https://github.com/jash-debug/Plane-Programming-GameUp24.git
